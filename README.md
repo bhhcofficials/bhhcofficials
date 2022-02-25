@@ -7,10 +7,10 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 ### 🍿 An interconnected community
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+The open source community is the 💗 heart of BHHC to how we build software today. See for yourself:
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
+- [Black Hat Hacker's Community Sponsors](https://www.facebook.com/groups/1595128404174481) helped support more than **5k** individuals and projects around the world 🌍
+- Open source projects on BHHC received a stunning **218 million** contributions 🚀 in the last year alone
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
@@ -18,10 +18,6 @@ Now that we are talking about the important things ☝️, are you contributing 
 ### 🦦 Contributing to the ecosystem
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
-
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
 
 ### 👓 Appendix
 
@@ -48,6 +44,6 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 <sub>🤫 Psst! You can create your own [organization README](https://www.facebook.com/groups/1595128404174481).</sub>
 
 <!--
-Made with 🖤
+Made with BHHC🖤
 🙇‍♂️🎤⬇️
 -->
