@@ -9,9 +9,9 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 The open source community is the 💗 heart of BHHC to how we build software today. See for yourself:
 
-- [Black Hat Hacker's Community Sponsors](https://www.facebook.com/groups/1595128404174481) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on BHHC received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+- [Black Hat Hacker's Community Sponsors](https://www.facebook.com/groups/1595128404174481) helped support more than **2k** individuals and projects around the world 🌍
+- Open source projects on BHHC received a stunning **200** contributions 🚀 in the last year alone
+- **Every minute** a developer creates a new release 🏄 for a public project on Black Hat Hacker's Community 
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
