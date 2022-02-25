@@ -13,7 +13,7 @@ we are Black Hat Hacker's Community **(BHHC)** cyber warrior..
 we fight with anyone, but never with everyone,
 we trust everyone, but never anyone..
 because, we are only one..
-[Black Hat Hacker's Community (BHHC)]. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+[Black Hat Hacker's Community (BHHC)]. Yes, [Robots](https://www.facebook.com/groups/bhhcofficials)!
 
 ### 🍿 An interconnected community
 
@@ -31,13 +31,13 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 
 ### 👓 Appendix
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+See what's next on our [public roadmap](https://www.facebook.com/groups/bhhcofficials) ✨ if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team (https://www.facebook.com/groups/bhhcofficials) 🙌.
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
+	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://www.facebook.com/groups/bhhcofficials">BHHC</a> among others.</li>
 		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
 			<ul>
 				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
