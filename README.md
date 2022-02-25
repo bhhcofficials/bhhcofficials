@@ -3,7 +3,17 @@
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/274525694_124106380161238_2852507823946410250_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeGsEHx506akKMEwYUjhO-b2I3xphYFGQNkjfGmFgUZA2f6CuKUDdb6RMg2vC6ZjLaPiBNzbmYGkxGKIJ-CqtNtH&_nc_ohc=Nk8Ub7JBN_MAX-JLf9J&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-f3I4UMU1sSI344M1Rb8MDWrWAXAq9EnHHyWMhRDwc7g&oe=621CDA63)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Welcome to the biggest & only active **Black Hat Hackers And Cyber Attack community in World's**. We have been representing World in cyber security operations for the last 9 years.
+Slogan: We Work to Black and iligal job
+White hat for country and black hat for enemies.
+Oath: To Test our **Hacking And Cyber Attack Skills, Challenge us..!!**
+but please, don't ask "who we are.."
+just keep your eyes, what we do..
+we are Black Hat Hacker's Community **(BHHC)** cyber warrior..
+we fight with anyone, but never with everyone,
+we trust everyone, but never anyone..
+because, we are only one..
+[Black Hat Hacker's Community (BHHC)]. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
 ### 🍿 An interconnected community
 
